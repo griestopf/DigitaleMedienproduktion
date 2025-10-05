@@ -1,0 +1,10 @@
+.DS_Store
+.githooks/hooks.log
+.hugo_build.lock
+docs/public*
+exampleSite/public*
+/public/
+hugo*.exe
+**/*.xcf
+**/*.zip
+
