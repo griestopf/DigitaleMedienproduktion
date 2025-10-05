@@ -9,7 +9,7 @@ Willkommen auf den Lerninhalten für das Seminar ***Digitale Medienproduktion***
 
 ## Kurzlink auf diese Seite
 
-https://hfu.li/CG
+https://hfu.li/DIG-MED
 
 
-![https://hfu.li/CG](./qr-hfu-li-CG.svg)
+![https://hfu.li/DIG-MED](./qr-hfu-li-DIG-MED.svg)
