@@ -4,13 +4,11 @@ draft = false
 weight = 20 
 +++
 
-## Godot Versionen
-
-### Godot mit .NET vs. ohne .NET
+## Godot mit .NET oder ohne .NET
 
 Godot kann entweder mit oder ohne .NET-Unterstützung (C#) verwendet werden. Die Wahl beeinflusst, welche Programmiersprachen und Features zur Verfügung stehen.
 
-#### Godot ohne .NET
+### Godot ohne .NET
 
 - **Sprache:** GDScript (eigene Skriptsprache von Godot)
 - **Vorteile:**
@@ -24,9 +22,9 @@ Godot kann entweder mit oder ohne .NET-Unterstützung (C#) verwendet werden. Die
   - Weniger externe Bibliotheken verfügbar.
   - GDScript ist weniger bekannt als C#.
 
-#### Godot mit .NET
+### Godot mit .NET
 
-- **Sprache:** C# (neben GDScript weiterhin nutzbar)
+- **Sprache:** C# (auch GDScript weiterhin nutzbar)
 - **Vorteile:**
   - Nutzung von C# und dessen Ökosystem (z.B. NuGet-Pakete).
   - Bessere Performance bei komplexer Logik.
