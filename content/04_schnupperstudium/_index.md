@@ -142,7 +142,7 @@ https://tweedback.de/24er
 
 ### Was hat dich daran technisch besonders fasziniert?
 
-### Worüber würdest du als Informatik-Student im Bereich 3D Games gerne mehr erfahren?
+### Worüber würdest du im Informatik-Studium im Bereich 3D Games gerne mehr erfahren?
 
 
 
