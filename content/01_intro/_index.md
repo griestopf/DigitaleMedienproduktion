@@ -34,14 +34,14 @@ Folgender Semesterplan enthält in **fett** die Termine, zu denen die Teilnehmer
 | 10. Nov    | **Vorstellung Thema**, Überblick, Idee für praktische Arbeit |
 | 17. Nov    | Arbeit am Thema. Keine Veranstaltung                |
 | 24. Nov    | Status. Arbeit am Thema                             |
-| 01. Dez    | **Zwischenstand Thema, erste Erkenntnisse**             |
-| 08. Dez    | Status. Arbeit am Thema                             |
+| 01. Dez    | Status. Arbeit am Thema             |
+| 08. Dez    | **Zwischenstand Thema, erste Erkenntnisse**         |
 | 15. Dez    | Status. Arbeit am Thema                             |
-| 22. Dez    | **Vortrag Seminar**                                     |
+| 22. Dez    | Status. Arbeit am Thema                                  |
 | 29. Dez    | Vorlesungsfrei                                      |
 | 05. Jan    | Vorlesungsfrei                                      |
-| 12. Jan    | Status. Arbeit am Thema                             |
-| 19. Jan    | **Vorstellung praktische Ausarbeitung**                 |
+| 12. Jan    | Status. Arbeit am Thema (Seminarvortrag?)           |
+| 19. Jan    | **Seminarvortrag**                 |
 
 
 ## Seminarthemen

@@ -6,7 +6,7 @@ weight = 40
 
 ## Guerilla Guide to 3D Char Creation
 
-3D-Modelling ist komplex. Character in 3D zu modellieren ist komplexer. Char in 3D zu modellieren und zu animieren noch komplexer. Hier ist ein leicht zu erlerndender und nachzuvollziehender Ansatz.
+3D-Modelling ist komplex. Character in 3D zu modellieren ist komplexer. Char in 3D zu modellieren und zu animieren noch komplexer. Hier ist ein leicht zu erlernender und nachzuvollziehender Ansatz.
 
 ### Modeling: Die Rony-Oren-Methode
 
