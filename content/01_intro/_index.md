@@ -35,7 +35,7 @@ Folgender Semesterplan enthält in **fett** die Termine, zu denen die Teilnehmer
 | 17. Nov    | Arbeit am Thema. Keine Veranstaltung                |
 | 24. Nov    | Status. Arbeit am Thema                             |
 | 01. Dez    | Status. Arbeit am Thema             |
-| 08. Dez    | **Zwischenstand Thema, erste Erkenntnisse**         |
+| 08. Dez    | **Zwischenstand Ausarbeitung, erste Erkenntnisse**         |
 | 15. Dez    | Status. Arbeit am Thema                             |
 | 22. Dez    | Status. Arbeit am Thema                                  |
 | 29. Dez    | Vorlesungsfrei                                      |
