@@ -41,7 +41,7 @@ Folgender Semesterplan enthält in **fett** die Termine, zu denen die Teilnehmer
 | 29. Dez    | Vorlesungsfrei                                      |
 | 05. Jan    | Vorlesungsfrei                                      |
 | 12. Jan    | Status. Arbeit am Thema            | 
-| 19. Jan    | **Seminarvortrag ENDE: 13:00!!**                |
+| 19. Jan    | **Seminarvortrag. ENDE: 13:00!!**                |
 
 
 ## Seminarthemen
