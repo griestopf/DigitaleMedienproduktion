@@ -58,7 +58,6 @@ Ein weiterer Startpunkt, um ein Thema mit passender Fragestellung zu finden, kö
 
 Hier zusätzlich eine Liste mit möglichen Bereichen, aus denen sich Ideen für Seminarthemen generieren lassen.
 
-- AR/VR/XR Games mit Godot
 - Post-Effekte mit Godot-Shadern
 - Netzwerk-Unterstützung (mit Anbindung an den Workshop)
   - Eingebaute Features
@@ -67,6 +66,9 @@ Hier zusätzlich eine Liste mit möglichen Bereichen, aus denen sich Ideen für 
 - Photorealismus in Godot
   - Character
   - Umgebungen
+- Inverse Kinematik
+- Mobile Games mit Godot 
+- AR/VR/XR Games mit Godot
 - Prozedurale Geometrie / Assets
 
 
