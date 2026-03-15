@@ -1,7 +1,7 @@
 +++
 title = 'Schnupperstudium - How to make a Game'
-draft = false
-weight = 40 
+draft = true
+weight = 99 
 +++
 
 ## Guerilla Guide to 3D Char Creation
