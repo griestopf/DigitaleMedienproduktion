@@ -24,29 +24,31 @@ Treffen an jedem Termin im Semester. Zu Beginn kurzes Recap zum Umgang mit Godot
 
 Folgender Semesterplan enthält in **fett** die Termine, zu denen die Teilnehmer etwas vorbereiten müssen. Eine regelmäßige Anwesenheit, sowie wöchentliche Status-Berichte in den Phasen selbständiger Bearbeitung sollen Anreiz zu kontinuierlicher Arbeit über das gesamte Semester bieten.
 
-| Datum      | Inhalt                                               |
-|------------|-----------------------------------------------------|
-| 06. Okt    | Info. Einführung Godot                              |
-| 13. Okt    | Einführung Godot                                    |
-| 20. Okt    | **Erste Runde Seminarthemen**. Einführung Godot         |
-| 27. Okt    | Einführung Godot                                    |
-| 03. Nov    | **Seminarthemen festlegen**                             |
-| 10. Nov    | **Vorstellung Thema**, Überblick, Idee für praktische Arbeit |
-| 17. Nov    | Arbeit am Thema. Keine Veranstaltung                |
-| 24. Nov    | Status. Arbeit am Thema                             |
-| 01. Dez    | Status. Arbeit am Thema             |
-| 08. Dez    | **Zwischenstand Ausarbeitung, erste Erkenntnisse**         |
-| 15. Dez    | Status. Arbeit am Thema                             |
-| 22. Dez    | Status. Arbeit am Thema                                  |
-| 29. Dez    | Vorlesungsfrei                                      |
-| 05. Jan    | Vorlesungsfrei                                      |
-| 12. Jan    | Status. Arbeit am Thema            | 
-| 19. Jan    | **Seminarvortrag. ENDE: 13:00!!**                |
+
+| Datum        | Inhalt                                                        |
+|--------------|---------------------------------------------------------------|
+|  16. Mär		 | Info. Einführung Godot                                        |
+|  23. Mär		 | Einführung Godot                                              |
+|  30. Mär		 | **Erste Runde Seminarthemen**. Einführung Godot               |
+|  *06. Apr*	 |  *Ostermontag*                                                |
+|  13. Apr		 | Einführung Godot                                              |
+|  20. Apr		 | **Seminarthemen festlegen**                                   |
+|  27. Apr		 | **Vorstellung Thema**, Überblick, Idee für praktische Arbeit  |
+|  04. Mai		 | Arbeit am Thema. Keine Veranstaltung                          |
+|  11. Mai		 | Status. Arbeit am Thema                                       |
+|  18. Mai		 | Status. Arbeit am Thema                                       |
+|  *25. Mai*	 | *Pfingstmontag*                                               |
+|  01. Jun		 | **Zwischenstand Ausarbeitung, erste Erkenntnisse**            |
+|  08. Jun		 | Status. Arbeit am Thema                                       |
+|  15. Jun		 | Status. Arbeit am Thema                                       |
+|  22. Jun		 | Status. Arbeit am Thema                                       | 
+|  29. Jun		 | **Seminarvortrag**                                            |
+
 
 
 ## Seminarthemen
 
-In den ersten beiden Wochen sollen die Teilnehmer selbst nach passenden Seminarthemen suchen, diese iterativ mit dem Dozenten abstimmen und sich bis Anfang November auf ein Thema festlegen.
+In den ersten beiden Wochen sollen die Teilnehmer selbst nach passenden Seminarthemen suchen, diese iterativ mit dem Dozenten abstimmen und sich bis Ende März auf ein Thema festlegen.
 
 Als Themen geeignet sind solche, die einer klaren Fragestellung nachgehen, die im Rahmen der Veranstaltung von den Teilnehmern beantwortbar erscheint. Dabei soll zur Beantwortung der Fragestellung neben reiner Recherche auch die Entwicklung/Erstellung eines praktischen, in Godot entwickelten Demonstrators notwendig sein. Der praktische Entwicklungsteil kann dabei gerne auch im Vordergrund stehen.
 

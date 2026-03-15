@@ -42,7 +42,7 @@ Für einfache Projekte, maximale Kompatibilität und Web-Publishing empfiehlt si
 
 ## Visual Studio Code als externer Editor
 
-Der Godot-Editor enthält bereits Code-Entwicklungswerkzeuge wie Text-Editor, Debugger und Profiler, die sich im  Funktionsumfang nicht hinter aktuellen Entwicklungsumgebungen wie Visual Studio Code verstecken muss. Für schnelle Prototypen und GDScript-Projekte ist der eingebaute Editor oft ausreichend und besonders für Einsteiger geeignet. Wer  komplexere Projekte umsetzt, C# verwendet oder von erweiterten Entwicklungsfunktionen profitieren möchte, ist mit Visual Studio Code meist besser beraten. Hier die Vor- und Nachteile:
+Der Godot-Editor enthält bereits Code-Entwicklungswerkzeuge wie Text-Editor, Debugger und Profiler, die sich im  Funktionsumfang nicht hinter aktuellen Entwicklungsumgebungen wie Visual Studio Code verstecken müssen. Für schnelle Prototypen und GDScript-Projekte ist der eingebaute Editor oft ausreichend und besonders für Einsteiger geeignet. Wer  komplexere Projekte umsetzt, C# verwendet oder von erweiterten Entwicklungsfunktionen profitieren möchte, ist mit Visual Studio Code meist besser beraten. Hier die Vor- und Nachteile:
 
 ### Eingebauter Editor (Godot)
 
