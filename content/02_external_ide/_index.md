@@ -86,11 +86,12 @@ Die folgende Beschreibung ist die Grundvoraussetzung, um in GDScript mit Visual 
   Starte Godot und öffne dein gewünschtes Projekt.
 
 3. **VS Code als externer Editor einstellen:**  
-  - Öffne die **Projekteinstellungen** (`Projekt` → `Projekteinstellungen`).
-  - Wechsle zum Tab **Editor** und dann zu **Text-Editor → Externer Editor**.
-  - Aktiviere die Option **Externer Editor verwenden**.
-  - Trage im Feld **Exec Path** den Pfad zur `Code.exe` ein (z.B. `C:/Users/{username}/AppData/Local/Programs/Microsoft VS Code/Code.exe` unter Windows).
-  - Im Feld **Exec Flags** kannst du `--goto {file}:{line}:{col}` eintragen, damit VS Code die Datei direkt an der richtigen Stelle öffnet.
+  - Öffne im Menü **Editor → Editor Settings...** den Editor Settings Dialog. -
+  - Aktiviere die Anzeige der **Advanced Settings**.
+  - Gehe zu **Text-Editor → External Editor**.
+  - Aktiviere die Option **Use External Editor**.
+  - Trage im Feld **Exec Path** den Pfad zu Visual Studio Code ein (z.B. `C:/Users/{username}/AppData/Local/Programs/Microsoft VS Code/Code.exe` unter Windows).
+  - Trage im Feld **Exec Flags** folgendes ein: `--goto {file}:{line}:{col}`. Damit öffnet VS Code die zu öffnende Datei direkt in der richtigen Zeile.
   ![](./godot_external_editor_settings.png)
 
   - Unter Editor → Editor Settings → Network → Language Server → Remote Port den dort eingestellten Wert auslesen und merken (Default: 6005).
@@ -100,12 +101,24 @@ Die folgende Beschreibung ist die Grundvoraussetzung, um in GDScript mit Visual 
 
 4. **Godot-Tools-Erweiterung installieren:**  
   - Installiere in VS Code die Extension **godot-tools** für bessere Integration (z.B. Autovervollständigung, Debugging).
-  - In den Einstellungen für die godot-tools Extension, die Einstellung `Godot: Lsp Port` auf den in Godot voreingestellten Wert (Default 6005) einstellen.
-  ![](./vscode_language_server_settings.png)
+  - In den Einstellungen für die godot-tools Extension für **User** (NICHT für **Workspace**):
+    - die Einstellung `Godot Tools > Lsp Port` auf den in Godot voreingestellten Wert (Default 6005) einstellen.
+    - in der Einstellung `Godot Tools › Editor Path: Godot4` den Pfad zur Godot-Executable angeben 
+
+    ![](./vscode_language_server_settings.png)
 
 
 5. **Testen:**  
   Öffne eine Skriptdatei im Godot-Editor – sie sollte nun automatisch in VS Code geöffnet werden.
+
+## Debugging mit VS Code
+
+Mit obiger Konfiguration sollte es möglich sein, das aktuelle Godot-Projekt direkt aus VS Code zu starten. Jede aus dem in VS-Code geöffnete Datei im Godot-Projekt hat dazu am oberen rechten Rand den "Play"-Button, der bei Klick zwei Optionen zeigt.
+
+Zunächst sollte die zu startende Szene in der Explorer-Pane von VS-Code mit dem Kontext-Menü-Eintrag **Pin Scene File** als zu startende Szene markiert werden. Im Zweifel sollte hier die Szene verwendet werden, die auch im Godot-Editor als Start-Szene hinterlegt ist (z. B. `main.tscn`, auf jeden Fall solle kein anderer Dateityp außer `.tscn`-Dateien gepinnt werden). Dann kann aus jeder beliebigen geöffneten Datei (z. B. Skript-Dateien (`.gd`)) mit dem Play-Button und der Option **Debug Pinned File** die Szene gestartet werden und der laufende Code mit dem Debugger inspiziert werden.
+
+![alt text](vscode_debugging.png)
+
 
 
 ## TODO: Weitere Schritte für die Entwicklung mit C# / .NET und VS Code
