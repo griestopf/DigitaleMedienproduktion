@@ -33,16 +33,16 @@ Folgender Semesterplan enthält in **fett** die Termine, zu denen die Teilnehmer
 |  *06. Apr*	 |  *Ostermontag*                                                |
 |  13. Apr		 | Einführung Godot                                              |
 |  20. Apr		 | **Seminarthemen festlegen**                                   |
-|  27. Apr		 | **Vorstellung Thema**, Überblick, Idee für praktische Arbeit  |
+|  27. Apr		 | **Vorstellung Thema (Präsenz)**, Überblick, Idee für praktische Arbeit  |
 |  04. Mai		 | Arbeit am Thema. Keine Veranstaltung                          |
-|  11. Mai		 | Status. Arbeit am Thema                                       |
-|  18. Mai		 | Status. Arbeit am Thema                                       |
+|  11. Mai		 | Status. Arbeit am Thema (Präsenz)                                      |
+|  18. Mai		 | Status. Arbeit am Thema (Online)                                      |
 |  *25. Mai*	 | *Pfingstmontag*                                               |
-|  01. Jun		 | **Zwischenstand Ausarbeitung, erste Erkenntnisse**            |
-|  08. Jun		 | Status. Arbeit am Thema                                       |
-|  15. Jun		 | Status. Arbeit am Thema                                       |
-|  22. Jun		 | Status. Arbeit am Thema                                       | 
-|  29. Jun		 | **Seminarvortrag**                                            |
+|  01. Jun		 | **Zwischenstand Ausarbeitung, erste Erkenntnisse (Präsenz)**            |
+|  08. Jun		 | Status. Arbeit am Thema (Online)                                      |
+|  15. Jun		 | Status. Arbeit am Thema (Präsenz)                                      |
+|  22. Jun		 | Status. Arbeit am Thema (Online)                                      | 
+|  29. Jun		 | **Seminarvortrag (Präsenz)**                                            |
 
 
 
